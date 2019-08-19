@@ -1,0 +1,6 @@
+/Users/romanplyta/Projects/First_Training_Task/First_Training_Task/bin/Debug/First_Training_Task.exe
+/Users/romanplyta/Projects/First_Training_Task/First_Training_Task/bin/Debug/First_Training_Task.pdb
+/Users/romanplyta/Projects/First_Training_Task/First_Training_Task/obj/x86/Debug/First_Training_Task.csprojAssemblyReference.cache
+/Users/romanplyta/Projects/First_Training_Task/First_Training_Task/obj/x86/Debug/First_Training_Task.csproj.CoreCompileInputs.cache
+/Users/romanplyta/Projects/First_Training_Task/First_Training_Task/obj/x86/Debug/First_Training_Task.exe
+/Users/romanplyta/Projects/First_Training_Task/First_Training_Task/obj/x86/Debug/First_Training_Task.pdb
