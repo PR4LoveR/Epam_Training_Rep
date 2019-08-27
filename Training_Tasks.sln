@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second_Training_Task", "Sec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First_Training_Task_Tests", "First_Training_Task_Tests\First_Training_Task_Tests.csproj", "{9F8F27D6-2391-409E-BE73-951347228471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third_Training_Tasks", "Third_Training_Tasks\Third_Training_Tasks.csproj", "{E53B2AF6-D901-4775-8088-9F8E341A7294}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,5 +29,9 @@ Global
 		{9F8F27D6-2391-409E-BE73-951347228471}.Debug|x86.Build.0 = Debug|Any CPU
 		{9F8F27D6-2391-409E-BE73-951347228471}.Release|x86.ActiveCfg = Release|Any CPU
 		{9F8F27D6-2391-409E-BE73-951347228471}.Release|x86.Build.0 = Release|Any CPU
+		{E53B2AF6-D901-4775-8088-9F8E341A7294}.Debug|x86.ActiveCfg = Debug|x86
+		{E53B2AF6-D901-4775-8088-9F8E341A7294}.Debug|x86.Build.0 = Debug|x86
+		{E53B2AF6-D901-4775-8088-9F8E341A7294}.Release|x86.ActiveCfg = Release|x86
+		{E53B2AF6-D901-4775-8088-9F8E341A7294}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
